@@ -1,2 +1,2 @@
-# web-tes
-tes deploy aplikasi web ke azure
+# a83-macd-labs
+Source code untuk kelas Azure
