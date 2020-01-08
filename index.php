@@ -27,7 +27,7 @@
  </form>
  <?php
     $host = "aplikasi-web.database.windows.net";
-    $user = "manager>";
+    $user = "manager";
     $pass = "Zoldyckman007";
     $db = "db";
 
